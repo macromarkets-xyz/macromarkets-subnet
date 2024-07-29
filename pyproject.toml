@@ -1,0 +1,25 @@
+[tool.pyright]
+strict = ["src"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "macromarkets_xyz"
+description = "macromarkets subnet"
+readme = "README.md"
+version = "0.0.1"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "subname9", email = "subname9@danksy.ai"}
+]
+classifiers = [
+    "Development Status :: SIGMA",
+    "Intended Audience :: Developers",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/"  # TODO: Update with your actual GitHub URL
+

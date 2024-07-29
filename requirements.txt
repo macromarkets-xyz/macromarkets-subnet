@@ -1,0 +1,10 @@
+bittensor==6.9.3
+cachetools
+dynaconf
+black
+docker
+loguru
+yfinance
+pytz
+docker
+scipy
